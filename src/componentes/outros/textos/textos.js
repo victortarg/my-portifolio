@@ -6,7 +6,7 @@ function Textos() {
          <h1 className="nome">Hey, I'm Victor Targino</h1>
 
          <p className="intro-text">
-            Site/portifólio em contrução.
+            Ainda em contrução...
          </p>
 
       </>
