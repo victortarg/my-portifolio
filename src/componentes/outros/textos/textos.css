@@ -7,3 +7,9 @@ h1{
    font-family: 'Unica One', sans-serif;
    /* text-transform: uppercase; */
 }
+
+p{
+   color: white;
+   position: absolute;
+
+}
