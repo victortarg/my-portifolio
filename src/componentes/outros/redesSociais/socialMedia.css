@@ -39,7 +39,11 @@
    position: absolute;
 }
 
-.side-bar li span {
+.side-bar li:hover {
+   width: 160px;
+}
+
+.side-bar a {
    text-transform: capitalize;
    font-size: 20px;
    font-weight: 600;
@@ -48,11 +52,16 @@
    transform: translateX(60px);
    padding-left: 10px;
    color: transparent;
+   text-decoration: none;
 }
 
-.side-bar li:hover {
-   width: 160px;
-}
-.side-bar li:hover span {
+.side-bar li:hover a {
    color: #fff;
+}
+
+.side-bar li a .img_social_media {
+   position: absolute;
+   height: 40px;
+   left: -60px;
+   top: -9px;
 }
