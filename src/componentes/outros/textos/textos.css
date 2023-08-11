@@ -1,0 +1,9 @@
+h1{
+   position: absolute;
+   color: white;
+   height: 45vh;
+   font-size: 65px;
+   font-weight: 300;
+   font-family: 'Unica One', sans-serif;
+   /* text-transform: uppercase; */
+}
