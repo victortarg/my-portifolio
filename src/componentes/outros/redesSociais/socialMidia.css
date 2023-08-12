@@ -29,19 +29,9 @@
 
 }
 
-.side-bar li i {
-   height: 45px ;
-   width: 45px ;
-   display: flex ;
-   justify-content: center;
-   align-items: center;
-   font-size: 36px;
-   position: absolute;
-}
-
 .side-bar li:hover {
    width: 160px;
-}
+} 
 
 .side-bar a {
    text-transform: capitalize;

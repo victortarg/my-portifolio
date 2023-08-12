@@ -1,6 +1,6 @@
 import './App.css';
 import NavBar from './componentes/navBar/NavBar';
-import SocialMedia from './componentes/outros/redesSociais/socialMedia';
+import SocialMedia from './componentes/outros/redesSociais/socialMidia';
 import Textos from './componentes/outros/textos/textos';
 
 
